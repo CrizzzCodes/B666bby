@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @B666bby
+- 👋🏻 Hi, I’m @b666by
 - 👁️ I’m interested in ... learn languages ​​and code
 - 🐍 I’m currently learning ... JavaScript 
 <!---
