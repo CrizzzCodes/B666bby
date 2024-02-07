@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @Criz
+- 👋🏻 Hi, I’m @Crizzz
 - 👁️ I’m interested in ... learning new programming languages and coding cool stuff
 - 🐍 I’m currently learning ... JavaScript and Phyton
 <!---
